@@ -1,0 +1,17 @@
+<settings>
+    <setting propertyKey="@Properties.show" title="@Strings.ShowTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ShowLocal</listEntry>
+            <listEntry value="1">@Strings.ShowZulu</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.color" title="@Strings.ColorTitle">
+        <settingConfig type="list">
+            <listEntry value="16777215">@Strings.White</listEntry>
+            <listEntry value="65280">@Strings.Green</listEntry>
+            <listEntry value="16755200">@Strings.Amber</listEntry>
+            <listEntry value="16711680">@Strings.Red</listEntry>
+            <listEntry value="43775">@Strings.Blue</listEntry>
+        </settingConfig>
+    </setting>
+</settings>

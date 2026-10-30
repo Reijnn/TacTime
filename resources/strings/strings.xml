@@ -1,0 +1,12 @@
+<strings>
+    <string id="AppName">TacTime</string>
+    <string id="ShowTitle" scope="settings">Time</string>
+    <string id="ShowLocal" scope="settings">Local</string>
+    <string id="ShowZulu" scope="settings">Zulu</string>
+    <string id="ColorTitle" scope="settings">Color</string>
+    <string id="White" scope="settings">White</string>
+    <string id="Green" scope="settings">Green</string>
+    <string id="Amber" scope="settings">Amber</string>
+    <string id="Red" scope="settings">Red</string>
+    <string id="Blue" scope="settings">Blue</string>
+</strings>

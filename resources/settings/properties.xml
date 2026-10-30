@@ -1,0 +1,4 @@
+<properties>
+    <property id="show" type="number">0</property>
+    <property id="color" type="number">16777215</property>
+</properties>

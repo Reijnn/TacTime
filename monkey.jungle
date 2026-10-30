@@ -1,0 +1,15 @@
+project.manifest = manifest.xml
+project.typecheck = 1
+
+# Black-and-white screens cannot show gray, so they get the (:mono) code instead of (:color).
+# Watches with physical hands (Instinct Crossover) get the (:hands) code instead of (:nohands).
+base.excludeAnnotations = mono;hands
+descentg1.excludeAnnotations = color;hands
+instinct2.excludeAnnotations = color;hands
+instinct2s.excludeAnnotations = color;hands
+instinct2x.excludeAnnotations = color;hands
+instinct3solar45mm.excludeAnnotations = color;hands
+instinctcrossover.excludeAnnotations = color;nohands
+instincte40mm.excludeAnnotations = color;hands
+instincte45mm.excludeAnnotations = color;hands
+instinctcrossoveramoled.excludeAnnotations = mono;nohands
